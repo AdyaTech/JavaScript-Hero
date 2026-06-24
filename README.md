@@ -1,5 +1,5 @@
 # JavaScript-Hero
-Learn JavaScript easily with TechBugDebug
+Learn JavaScript with TechBugDebug
 
 
 
